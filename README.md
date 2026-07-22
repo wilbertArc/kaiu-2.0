@@ -1,4 +1,4 @@
-# KAIU Website — React (Vite)
+# KAIU Archived Website — React (Vite)
 
 A faithful React port of the KAIU wood veneer site (Fraunces + Jost, walnut/veneer/moss palette) — same pages, same copy, same styling, no redesign.
 
